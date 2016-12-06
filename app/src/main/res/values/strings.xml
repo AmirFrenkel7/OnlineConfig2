@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OnlineConfig</string>
+    <string name="long_explanation">In order to emulate getting the configuration several times, we allow two urls that gives us two values each: md5 &amp; original. toggling these keys allows us to control (emulate) a certain key being used, before loading the json from a different url that changes only the unused items."</string>
+</resources>
